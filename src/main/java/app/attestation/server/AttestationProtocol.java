@@ -161,7 +161,7 @@ class AttestationProtocol {
     private static final int OS_PATCH_LEVEL_MINIMUM = 201801;
 
     private static final String DEVICE_BKL_L04 = "Huawei Honor View 10 (BKL-L04)";
-    private static final String DEVICE_NOKIA_6_1 = "Nokia 6.1";
+    private static final String DEVICE_NOKIA = "Nokia (6.1, 7 Plus)";
     private static final String DEVICE_PIXEL_2 = "Google Pixel 2";
     private static final String DEVICE_PIXEL_2_XL = "Google Pixel 2 XL";
     private static final String DEVICE_SM_G960F = "Samsung Galaxy S9 (SM-G960F)";
